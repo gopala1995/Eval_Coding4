@@ -1,0 +1,24 @@
+{
+  "name": "Eval_Coding4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopala1995/Eval_Coding4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopala1995/Eval_Coding4/issues"
+  },
+  "homepage": "https://github.com/gopala1995/Eval_Coding4#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
